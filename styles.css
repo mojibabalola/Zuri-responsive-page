@@ -57,7 +57,18 @@ display: none;
     .snapshot-box-content {
         flex-direction: column;
     }
+ 
+ .background {
+   height: auto; 
+ }
 
+ .background p {
+  text-align: center;
+  padding-left: 0rem;
+  padding-right: 0;
+  padding-bottom: 2rem;
+  
+  
   
         
     
